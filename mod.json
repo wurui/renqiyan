@@ -1,0 +1,6 @@
+{
+  "name": "renqiyan",
+  "version": "0.0.1",
+  "apiDependencies": ["renqibang","realtime-hot","cooltitle"]
+}
+
