@@ -14,52 +14,56 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <renqibang>
-        <i>
-            <icon>
-                watch
-            </icon>
-            <title>
-                nice camera
-            </title>
-            <subtitle>
-                powerful notebook
-            </subtitle>
-            <color>
-                wallet
-            </color>
-            <tag>
-                notebook
-            </tag>
-            <shop>
-                light-weight notebook
-            </shop>
-            <href>
-                strong camera
-            </href>
-        </i>
-    </renqibang>
-    <realtime-hot>
-        <index>
-            78873
-        </index>
-        <title>
-            nice laptop
-        </title>
-        <img>
-            laptop
-        </img>
-    </realtime-hot>
-    <cooltitle>
-        <bgpic>
-            //a.oxm1.cc/img/fox.jpg
-        </bgpic>
-        <icon>
-            //a.oxm1.cc/img/fox.jpg
-        </icon>
-        <title>
-            mobilephone
-        </title>
-    </cooltitle>
+        <renqibang>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9u4c29wTj9i8pjfwR12vtA2w38-700.jpg</icon>
+                <title>人气榜单</title>
+                <subtitle>全城西餐T全城西餐T</subtitle>
+                <color>#f06</color>
+                <tag>TOP.1</tag>
+                <shop>蓝山咖啡馆</shop>
+                <href>#top1</href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9u4c311Tj9i8piorRv0yyAepi-669.jpg</icon>
+                <title>8090人</title>
+                <subtitle>只想吃火只想吃火</subtitle>
+                <color>#f60</color>
+                <tag>超人气</tag>
+                <shop>一席地</shop>
+                <href>#super</href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9u4c311Tj9i8piorRv0yyAepi-669.jpg</icon>
+                <title>8090人</title>
+                <subtitle>只想吃火</subtitle>
+                <color>#f60</color>
+                <tag>超人气</tag>
+                <shop>一席地</shop>
+                <href>#super</href>
+            </i>
+        </renqibang>
+        <realtime-hot>
+            <i>
+                <index>56</index>
+                <title>知乐人家(余杭车站店)</title>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9u4c633Tj9i8pfmpRz64nA2n6w-667.jpg</img>
+            </i>
+            <i>
+                <index>44</index>
+                <title>实惠餐馆(联兴路店)</title>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9u4c75vTj9i8pejxR23utA1dl3-636.jpg</img>
+            </i>
+            <i>
+                <index>17</index>
+                <title>爱粥吧(狮山路店)</title>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9u4c46rTj9i8phj1Rn23gA4adh-664.jpg</img>
+            </i>
+        </realtime-hot>
+        <cooltitle>
+            <bgpic>http://i.oxm1.cc/uploads/git/wurui/img/2a9izthlbTj9td844hRf0n4Akfp-124.png</bgpic>
+            <icon>http://i.oxm1.cc/uploads/git/wurui/img/2a9iztk5eTj9td81keRayxoA2go-977.png</icon>
+            <title>饭点啦！100元红包等你来抢</title>
+        </cooltitle>
     </data>
 </root>
